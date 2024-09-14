@@ -1,2 +1,2 @@
-MY WEBSITE 
-        JAANU
+MY small nature static WEBPAGE
+        
